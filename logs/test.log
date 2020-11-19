@@ -1,0 +1,18 @@
+__main__ - DEBUG - HEALLO
+__main__ - DEBUG - HEALLO
+__main__ - DEBUG - insidefunction1
+__main__ - DEBUG - inside function1
+__main__.inside function1
+inside function1.__main__
+inside function1 in __main__
+inside function1 in __main__
+inside function1 in file1
+inside function1 in file1
+inside function1 in file1
+leaving function1 in file1
+inside function1 in file1
+leaving function1 in file1
+inside function1 in a.file1
+leaving function1 in a.file1
+inside function1 in a.file1
+leaving function1 in a.file1
